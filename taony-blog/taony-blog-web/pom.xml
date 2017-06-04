@@ -25,8 +25,8 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.taony.blog.api</groupId>
-			<artifactId>taony-blog-api</artifactId>
+			<groupId>com.taony.blog.core</groupId>
+			<artifactId>taony-blog-core</artifactId>
 			<version>${blog.version}</version>
 		</dependency>
 	</dependencies>
