@@ -11,9 +11,8 @@
 	<name>taony-blog</name>
 	<url>http://maven.apache.org</url>
 	<modules>
-		<module>taony-blog-api</module>
-		<module>taony-blog-web</module>
 		<module>taony-blog-core</module>
+		<module>taony-blog-web</module>
 	</modules>
 
 	<properties>
