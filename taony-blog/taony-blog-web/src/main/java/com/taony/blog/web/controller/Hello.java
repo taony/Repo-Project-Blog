@@ -10,6 +10,6 @@ public class Hello {
 
 	@RequestMapping("/index")
 	public ModelAndView hello() {
-		return new ModelAndView("/index");
+		return new ModelAndView("/jsp/index");
 	}
 }
